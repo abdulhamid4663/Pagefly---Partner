@@ -1,0 +1,219 @@
+body {
+	font-family: 'Montserrat', sans-serif !important;
+}
+
+nav {
+	box-shadow: 0 3px 3px #00000024;
+}
+
+.navbar-brand {
+	width: 150px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-size: 16px;
+    font-weight: 700;
+    color: #000000c4 !important;
+    padding-right: 1rem;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #5F67FF !important;
+}
+
+
+.btn-custom {
+    font-weight: 600;
+    background-color: #5F67FF;
+    font-size: 14px !important;
+    color: #fff;
+    padding: 10px 20px;
+}
+.btn-custom:hover {
+	background-color: #0000FF;
+	color: #fff;
+}
+.dropdown-item {
+    font-size: 16px;
+    font-weight: 700;
+    color: #000000c4 !important;
+}
+.dropdown-item:hover {
+    color: #5F67FF !important;
+}
+
+
+.partner-section {
+    margin-top: 100px;
+}
+.partner-header {
+    background: #5F67FF;
+    color: #fff;
+    text-align: center;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.partner-header h1 {
+    font-weight: 700;
+    font-size: 36px;
+    padding: 10px;
+}
+.navbar-brand {
+	width: 150px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-size: 16px;
+    font-weight: 700;
+    color: #000000c4 !important;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #5F67FF !important;
+}
+.btn-custom {
+    font-weight: 600;
+    background-color: #5F67FF;
+    font-size: 14px !important;
+    color: #fff;
+    padding: 10px 15px;
+}
+.btn-custom:hover {
+	background-color: #0000FF;
+	color: #fff;
+}
+.dropdown-item {
+    font-size: 16px;
+    font-weight: 700;
+    color: #000000c4 !important;
+}
+.dropdown-item:hover {
+    color: #5F67FF !important;
+}
+
+
+.partner-section {}
+.p-s h1 {
+    font-weight: 700;
+    color: #5F67FF;
+    font-size: 45px;
+}
+
+.p-s h2 {
+    font-weight: 700;
+    color: #545454;
+}
+.partner-grid {
+    box-shadow: 0 10px 15px 0px #5f5f5f38;
+    border-radius: 10px;
+    min-height: 450px;
+    padding: 30px;
+}
+.partner-grid img {}
+.partner-grid h5 {
+    font-weight: 600;
+    padding-top: 20px;
+}
+.partner-grid p {
+    font-weight: 500;
+}
+
+
+.below-partner-grid {}
+.image1 {
+    border-radius: 10px;
+    box-shadow: 0 10px 15px 0px #5f5f5f38;
+}
+.image1 img {}
+
+.join {
+    border-radius: 10px;
+    box-shadow: 0 10px 15px 0px #5f5f5f38;
+    padding: 46px;
+}
+.join h2 {
+    font-weight: 700;
+    color: #5F67FF;
+}
+.join h5 {
+    font-weight: 700;
+    font-size: 18px;
+}
+.join p {
+    font-weight: 500;
+}
+
+
+.our-partners {}
+.our-partners .text {}
+.our-partners h1 {
+    font-weight: 700;
+    font-size: 45px;
+    color: #5F67FF;
+}
+.our-partners h5 {
+    font-size: 18px;
+    font-weight: 700;
+}
+.our-partners p {
+    font-weight: 500;
+    padding: 10px 0;
+}
+
+div.image2 {
+	border-top: 5px solid #5F67FF;
+    padding: 25px 20px;
+    box-shadow: 0 10px 15px 0px #5f5f5f38;
+    height: 100px;
+}
+.image2 img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+
+.steps-section {}
+.steps-section h1 {
+    font-weight: 700;
+    font-size: 32px;
+    color: #5F67FF;
+}
+.heading {}
+.heading h1 {
+    font-size: 60px;
+    font-weight: 500;
+}
+.heading h5 {
+    font-weight: 700;
+    font-size: 18px;
+}
+.heading p {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+
+footer {
+	background: #333333;
+}
+footer ul {
+	list-style:none;
+}
+footer ul li {
+	padding-bottom: 6px;
+}
+footer ul li:first-child {
+	font-size: 18px;
+}
+footer ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+}
+footer ul li a:hover {}
+.copy {
+    font-size: 12px;
+    opacity: 0.8;
+}
